@@ -1,11 +1,18 @@
-{"character_count": 29,
-    "word_count": 6,
-    "sentence_count": 2,
-    "longest_word": "powerful",
+{
+    "character_count": 44,
+    "word_count": 10,
+    "sentence_count": 0,
+    "longest_word": "files",
     "frequecy_count": {
-        "ai": 2,
-        "is": 2,
-        "useful": 1,
-        "powerful": 1
+        "dono": 1,
+        "files": 1,
+        "fix": 1,
+        "ho": 1,
+        "gayi": 1,
+        "aur": 1,
+        "test": 1,
+        "bhi": 1,
+        "kar": 1,
+        "liya": 1
     }
 }

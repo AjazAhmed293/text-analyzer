@@ -1,4 +1,3 @@
-text=input("enter some text: ")
 def analyze_text(text):
     clean_text=text.strip()
     lower_text=clean_text.lower()
@@ -32,4 +31,3 @@ def analyze_text(text):
     "frequecy_count":frequency_count
 }
     return results
-print(analyze_text(text))
