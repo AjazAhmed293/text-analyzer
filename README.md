@@ -43,3 +43,6 @@ Then a json file is returned as an output which looks like this
     }
 }
 Built while learning Python and Git fundamentals.
+## Development
+
+This project uses Git branches for safe development.
